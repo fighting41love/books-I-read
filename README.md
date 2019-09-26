@@ -18,6 +18,10 @@
 
 《具体生活》吴军
 
+《Animal Farm》乔治·奥威尔
+
+《Frankenstein》玛丽·雪莱
+
 
 #### 技术类：
 《PRML》
